@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Агератум",
+      "price": 40,
+      "inStock": true,
+      "packaging": "8 г",
+      "description": "Синие цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=dcfd124ab38b81a86f6b333fc980497a892aa094-10852653-images-thumbs&n=13"
+    },
+    {
+      "id": 2,
+      "name": "Астры",
+      "price": 35,
+      "inStock": true,
+      "packaging": "7 г",
+      "description": "Разноцветные цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=9445084a5df7b5b3cd56d8c244e55059d9b0577c-12445014-images-thumbs&n=13"
+    },
+    {
+      "id": 3,
+      "name": "Бархатцы",
+      "price": 30,
+      "inStock": true,
+      "packaging": "5 г",
+      "description": "Оранжевые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=82ac7441f740f31b6a63bd27d99eae4500d246f8-12011805-images-thumbs&n=13"
+    },
+    {
+      "id": 4,
+      "name": "Вербена",
+      "price": 45,
+      "inStock": true,
+      "packaging": "12 г",
+      "description": "Фиолетовые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=b8877a26bfbc4b669b1e14d92561e38d6977eb1f-12523274-images-thumbs&n=13"
+    },
+    {
+      "id": 5,
+      "name": "Гайлардия",
+      "price": 60,
+      "inStock": false,
+      "packaging": "18 г",
+      "description": "Желтые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=ac42574bf2cbed5d5b0e31dfa57d0da42f283db5-8800190-images-thumbs&n=13"
+    },
+    {
+      "id": 6,
+      "name": "Гвоздика",
+      "price": 55,
+      "inStock": true,
+      "packaging": "10 г",
+      "description": "Красные цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=0a9034240037da71bfff8f2de3f3fb6bd16ae157-12480039-images-thumbs&n=13"
+    },
+    {
+      "id": 7,
+      "name": "Гелихризум",
+      "price": 50,
+      "inStock": true,
+      "packaging": "15 г",
+      "description": "Желтые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=e3c01349af6cb34c36be29b63ec85246e21bbdd8-10752576-images-thumbs&n=13"
+    },
+    {
+      "id": 8,
+      "name": "Георгины",
+      "price": 70,
+      "inStock": true,
+      "packaging": "20 г",
+      "description": "Разноцветные цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=a816fab67c7f33684ac007bedbe807dfce1a8400-5221301-images-thumbs&n=13"
+    },
+    {
+      "id": 9,
+      "name": "Пеларгония",
+      "price": 65,
+      "inStock": true,
+      "packaging": "25 г",
+      "description": "Розовые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=0ebc505644d666bb2d76b39dc10d3a58beb73d71-10511855-images-thumbs&n=13"
+    },
+    {
+      "id": 10,
+      "name": "Рудбекия",
+      "price": 80,
+      "inStock": true,
+      "packaging": "15 г",
+      "description": "Желтые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=8ebe83081df8c383d189ed9e0302ef7ca4db1e88-10929043-images-thumbs&n=13"
+    },
+    {
+      "id": 11,
+      "name": "Скабиоза",
+      "price": 25,
+      "inStock": true,
+      "packaging": "10 г",
+      "description": "Розовые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=61e4c39bb0a8ceb772a178fafe3d5dd40c6b3afc-10805535-images-thumbs&n=13"
+    },
+    {
+      "id": 12,
+      "name": "Маргаритка",
+      "price": 40,
+      "inStock": true,
+      "packaging": "8 г",
+      "description": "Белые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=46ea3577077276f322e86eabdb3f713dd65f87bc-10767434-images-thumbs&n=13"
+    },
+    {
+      "id": 13,
+      "name": "Дельфиниум",
+      "price": 35,
+      "inStock": true,
+      "packaging": "7 г",
+      "description": "Синие цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=75edf47552edcd36379708d99bfb1911af8002e1-10071482-images-thumbs&n=13"
+    },
+    {
+      "id": 14,
+      "name": "Пион",
+      "price": 30,
+      "inStock": true,
+      "packaging": "5 г",
+      "description": "Розовые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=bca0e8640eb0f529023f0a345b211a48502d2ecb-10936100-images-thumbs&n=13"
+    },
+    {
+      "id": 15,
+      "name": "Ромашка",
+      "price": 45,
+      "inStock": true,
+      "packaging": "12 г",
+      "description": "Белые цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=ec8cb3c2634889480d097a60f985d8c74df739e8-10749046-images-thumbs&n=13"
+    },
+    {
+      "id": 16,
+      "name": "Хризантема",
+      "price": 60,
+      "inStock": false,
+      "packaging": "18 г",
+      "description": "Разноцветные цветы",
+      "category": "Семена",
+      "image": "https://avatars.mds.yandex.net/i?id=901add6eb27c3ca851f8368bb8b48b342e47758f-10701561-images-thumbs&n=13"
+    }
+  ]
+  

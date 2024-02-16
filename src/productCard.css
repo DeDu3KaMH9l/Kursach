@@ -1,0 +1,53 @@
+.product-cards {
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Равномерно распределяем место между карточками */
+    padding: 20px;
+    background: #ece3ce;
+    color: #fff;
+    margin: 0 -5px; /* Убираем отрицательные отступы по бокам и уменьшаем расстояние между карточками */
+  }
+  
+  .product-card {
+    flex: 0 0 calc(20% - 20px); /* Уменьшаем ширину карточки */
+    margin: 10px;
+    border: 3px solid #3a4d39;
+    padding: 5px; /* Уменьшаем отступы */
+    background: #739072;
+    color: #fff;
+    border-radius: 10px;
+    max-width: 200px; /* Уменьшаем максимальную ширину карточки */
+  }
+  
+  .add-to-cart-button {
+    background-color: #4f6f52; /* Цвет кнопки */
+    color: #ece3ce; /* Цвет текста на кнопке */
+    border: none;
+    padding: 3px 6px; /* Уменьшаем внутренние отступы кнопки */
+    cursor: pointer;
+    border-radius: 5px;
+    justify-self: right;
+  }
+  
+  .product-image {
+    width: 100%; /* Заполняем всю доступную ширину для изображения */
+    height: auto; /* Автоматическое определение высоты для изображения */
+    margin-bottom: 10px; /* Увеличиваем отступ снизу */
+  }
+  
+  .product-name {
+    margin-bottom: 3px; /* Уменьшаем расстояние между названием и ценой */
+    font-size: 14px; /* Уменьшаем размер шрифта названия */
+  }
+  
+  .product-price {
+    color: #666;
+    margin-bottom: 7px; /* Уменьшаем расстояние между ценой и описанием */
+    font-size: 12px; /* Уменьшаем размер шрифта цены */
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #3A4D39;
+  }
+  
