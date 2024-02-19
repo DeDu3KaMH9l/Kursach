@@ -1,0 +1,49 @@
+/* PopUpLogin.css */
+
+.popup-container {
+    position: absolute;
+    top: 50%; /* Положение по вертикали */
+    left: 50%; /* Положение по горизонтали */
+    transform: translate(-50%, -50%); /* Центрирование */
+    background-color: #ECE3CE; /* Цвет фона */
+    padding: 40px 30px; /* Увеличиваем отступы */
+    border-radius: 20px; /* Закругление углов */
+    max-width: 300px; /* Максимальная ширина */
+    border: 2px solid #3A4D39; /* Добавляем рамку */
+  }
+  
+  .popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .popup-content {
+    position: relative;
+    text-align: center; /* Центрируем содержимое по горизонтали */
+  }
+  
+  .popup-input {
+    width: 100%; /* Занимаем всю ширину */
+    margin-bottom: 20px; /* Отступ снизу */
+    padding: 10px; /* Внутренний отступ */
+    border-radius: 5px; /* Закругление углов */
+    border: 1px solid #0b280a; /* Цвет рамки */
+  }
+  
+  .popup-login-button {
+    width: 100%; /* Занимаем всю ширину */
+    padding: 15px; /* Внутренний отступ */
+    border: none; /* Убираем границу */
+    border-radius: 5px; /* Закругление углов */
+    background-color: #739072; /* Цвет кнопки */
+    color: #fff; /* Цвет текста */
+    font-size: 16px; /* Размер шрифта */
+    cursor: pointer; /* Курсор при наведении */
+  }
+  
+  .popup-login-button:hover {
+    background-color: #3A4D39; /* Цвет кнопки при наведении */
+  }
